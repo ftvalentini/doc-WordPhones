@@ -1,2 +1,7 @@
+requests
+pandas
+numpy
+tqdm
+plotnine
 ipykernel
 ipywidgets
